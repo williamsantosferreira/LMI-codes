@@ -53,7 +53,7 @@ subplot(1,3,3);
 step(U);
 title('Control Signal');
 grid;
-
+rlocus(Gmf);
 
 
 
